@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+        text-align:center;
+}
+div{
+    margin-top: 15px;
+   
+}
+img{
+    width:350px; 
+    height:350px;
+}
+
+.image-section{
+    display:flex;
+    justify-content:center;
+   
+   }
+.section-style{
+    margin-right: 25px;
+    margin-left: :25px;
+    background-color: cornsilk
+}
+
+    
